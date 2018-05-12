@@ -1,0 +1,43 @@
+_repo: The-Worst-Journey-in-the-World--13-Antarctic-1910-1913_14363
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Cherry-Garrard, Apsley
+    alias: Cherry-Garrard, Apsley George Benet
+    birthdate: 1886
+    deathdate: 1959
+    gutenberg_agent_id: '5489'
+    url: http://www.gutenberg.org/2009/agents/5489
+    wikipedia: http://en.wikipedia.org/wiki/Apsley_Cherry-Garrard
+description: "The Worst Journey in the World is a memoir of the 1910–1913 British\
+  \ Antarctic Expedition led by Robert Falcon Scott. It was written and published\
+  \ in 1922 by a member of the expedition, Apsley Cherry-Garrard, and has earned wide\
+  \ praise for its frank treatment of the difficulties of the expedition, the causes\
+  \ of its disastrous outcome, and the meaning (if any) of human suffering under extreme\
+  \ conditions.\n From Wikipedia (CC BY-SA)."
+gutenberg_issued: '2004-12-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14363'
+  wikidata: Q385926
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'G'
+- !lcsh 'British Antarctic ("Terra Nova") Expedition (1910-1913)'
+- !lcsh 'Antarctica -- Discovery and exploration -- British'
+title: "The Worst Journey in the World\r\nAntarctic 1910-1913"
+url: http://www.gutenberg.org/ebooks/14363
+wikipedia:
+- https://eo.wikipedia.org/wiki/The_Worst_Journey_in_the_World
+- https://eu.wikipedia.org/wiki/The_Worst_Journey_in_the_World
+- https://fr.wikipedia.org/wiki/Le_Pire_Voyage_au_monde
+- https://es.wikipedia.org/wiki/El_peor_viaje_del_mundo
+- https://en.wikipedia.org/wiki/The_Worst_Journey_in_the_World
+- https://it.wikipedia.org/wiki/The_Worst_Journey_in_the_World
+- https://gl.wikipedia.org/wiki/The_Worst_Journey_in_the_World
